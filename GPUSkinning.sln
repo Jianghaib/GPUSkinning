@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPUSkinning", "GPUSkinning.csproj", "{029A8737-A794-4FC1-E67C-BB1DA0E89D47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GPUSkinning.Editor", "GPUSkinning.Editor.csproj", "{EB28F122-5F1E-9366-0A08-4DF5349BA4CF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{029A8737-A794-4FC1-E67C-BB1DA0E89D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{029A8737-A794-4FC1-E67C-BB1DA0E89D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{029A8737-A794-4FC1-E67C-BB1DA0E89D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{029A8737-A794-4FC1-E67C-BB1DA0E89D47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB28F122-5F1E-9366-0A08-4DF5349BA4CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB28F122-5F1E-9366-0A08-4DF5349BA4CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB28F122-5F1E-9366-0A08-4DF5349BA4CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB28F122-5F1E-9366-0A08-4DF5349BA4CF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

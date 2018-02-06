@@ -169,6 +169,7 @@ public class Adam_Player_Controller : MonoBehaviour
 
     private void DrawGUI_ASDW(Rect rect, bool isDoing, string label)
     {
+
         if (isDoing)
         {
             GUI.Button(rect, string.Empty);
