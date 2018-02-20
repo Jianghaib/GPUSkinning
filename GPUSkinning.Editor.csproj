@@ -124,14 +124,14 @@
     <Reference Include="Pathfinding.Poly2Tri">
       <HintPath>Assets/AstarPathfindingProject/Plugins/Poly2Tri/Pathfinding.Poly2Tri.dll</HintPath>
     </Reference>
-    <Reference Include="SyntaxTree.Mono.Cecil">
-      <HintPath>Assets/UnityVS/Editor/SyntaxTree.Mono.Cecil.dll</HintPath>
-    </Reference>
     <Reference Include="JMOAssets">
       <HintPath>Assets/JMO Assets/Editor/JMOAssets.dll</HintPath>
     </Reference>
     <Reference Include="JMOAssets_MatCapWelcome">
       <HintPath>Assets/JMO Assets/Editor/JMOAssets_MatCapWelcome.dll</HintPath>
+    </Reference>
+    <Reference Include="SyntaxTree.Mono.Cecil">
+      <HintPath>Assets/UnityVS/Editor/SyntaxTree.Mono.Cecil.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
@@ -224,6 +224,7 @@
     <None Include="Assets\SimplePhysicalShader\SimplePhysicalShader.shader" />
     <None Include="Assets\SimplePhysicalShader\SimplePhysicalShaderCoat.shader" />
     <None Include="Assets\SimplePhysicalShader\SimplePhysicalShaderRetro.shader" />
+    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />

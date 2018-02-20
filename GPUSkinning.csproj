@@ -317,6 +317,7 @@
     <None Include="Assets\SimplePhysicalShader\SimplePhysicalShader.shader" />
     <None Include="Assets\SimplePhysicalShader\SimplePhysicalShaderCoat.shader" />
     <None Include="Assets\SimplePhysicalShader\SimplePhysicalShaderRetro.shader" />
+    <None Include="Assets\SkySerie Freebie\Hdri setup.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Target Name="GenerateTargetFrameworkMonikerAttribute" />
